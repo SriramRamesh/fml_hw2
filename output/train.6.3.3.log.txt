@@ -1,0 +1,6 @@
+.............*.......*
+optimization finished, #iter = 20337
+nu = 0.454213
+obj = -919598.479408, rho = -2.002803
+nSV = 1313, nBSV = 1261
+Total nSV = 1313

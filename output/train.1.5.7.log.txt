@@ -1,0 +1,8 @@
+.
+WARNING: using -h 0 may be faster
+*
+optimization finished, #iter = 1087
+nu = 0.568410
+obj = -4659.289415, rho = -0.924289
+nSV = 1609, nBSV = 1596
+Total nSV = 1609
